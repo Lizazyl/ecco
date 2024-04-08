@@ -1,0 +1,1088 @@
+Uri: http://thugclothes/
+File Name: C:\Users\User\Desktop\thugclothes\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/about/
+File Name: C:\Users\User\Desktop\thugclothes\about\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/cart-2/
+File Name: C:\Users\User\Desktop\thugclothes\cart-2\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/collections/
+File Name: C:\Users\User\Desktop\thugclothes\collections\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/comments/feed/
+File Name: C:\Users\User\Desktop\thugclothes\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/contact/
+File Name: C:\Users\User\Desktop\thugclothes\contact\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/feed/
+File Name: C:\Users\User\Desktop\thugclothes\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/new-arrivals/
+File Name: C:\Users\User\Desktop\thugclothes\new-arrivals\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product-category/accessories/
+File Name: C:\Users\User\Desktop\thugclothes\product-category\accessories\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product-category/accessories/feed/
+File Name: C:\Users\User\Desktop\thugclothes\product-category\accessories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/product-category/footwear/
+File Name: C:\Users\User\Desktop\thugclothes\product-category\footwear\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product-category/footwear/feed/
+File Name: C:\Users\User\Desktop\thugclothes\product-category\footwear\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/product/black-high-heels-shoes/
+File Name: C:\Users\User\Desktop\thugclothes\product\black-high-heels-shoes\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product/black-high-heels-shoes/feed/
+File Name: C:\Users\User\Desktop\thugclothes\product\black-high-heels-shoes\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/product/claire-high-heels-shoes/
+File Name: C:\Users\User\Desktop\thugclothes\product\claire-high-heels-shoes\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product/claire-high-heels-shoes/feed/
+File Name: C:\Users\User\Desktop\thugclothes\product\claire-high-heels-shoes\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/product/donna-gold-frame-glasses/
+File Name: C:\Users\User\Desktop\thugclothes\product\donna-gold-frame-glasses\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product/donna-gold-frame-glasses/feed/
+File Name: C:\Users\User\Desktop\thugclothes\product\donna-gold-frame-glasses\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/product/emerald-green-shoes/
+File Name: C:\Users\User\Desktop\thugclothes\product\emerald-green-shoes\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product/emerald-green-shoes/feed/
+File Name: C:\Users\User\Desktop\thugclothes\product\emerald-green-shoes\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/product/noorin-gold-ring-watch/
+File Name: C:\Users\User\Desktop\thugclothes\product\noorin-gold-ring-watch\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product/noorin-gold-ring-watch/feed/
+File Name: C:\Users\User\Desktop\thugclothes\product\noorin-gold-ring-watch\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/product/serenity-silver-watch/
+File Name: C:\Users\User\Desktop\thugclothes\product\serenity-silver-watch\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/product/serenity-silver-watch/feed/
+File Name: C:\Users\User\Desktop\thugclothes\product\serenity-silver-watch\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/shop-2/
+File Name: C:\Users\User\Desktop\thugclothes\shop-2\index.htm
+Content Type: text/html
+
+Uri: http://thugclothes/shop-2/feed/
+File Name: C:\Users\User\Desktop\thugclothes\shop-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://thugclothes/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.10
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.10
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/css/frontend_style.css?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\css\frontend_style.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/css/owl.carousel.css?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/css/owl.theme.default.css?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\css\owl.theme.default.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.animate.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.animate.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.autoheight.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.autoheight.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.autoplay.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.autoplay.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.autorefresh.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.autorefresh.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.carousel.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.hash.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.hash.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.lazyload.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.lazyload.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.navigation.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.navigation.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.support.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.support.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/owl.carousel/owl.video.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\owl.carousel\owl.video.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/slider-bws/js/script.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\slider-bws\js\script.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\flexslider\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.6.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.2.2
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.2.2
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css?ver=1.7.4
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\wpforms-lite\assets\css\wpforms-base.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: http://thugclothes/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.4
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.3
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\wpforms-lite\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\wpforms-lite\assets\js\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/wpforms-lite/assets/js/punycode.min.js?ver=1.0.0
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\wpforms-lite\assets\js\punycode.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.7.4
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=3.7.10
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-grid.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min.css?ver=3.7.10
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-layout-grid.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min.css?ver=3.7.10
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-smallscreen-grid.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/themes/astra/assets/css/minified/main.min.css?ver=3.7.10
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.7.10
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/themes/astra/assets/js/minified/mobile-cart.min.js?ver=3.7.10
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\themes\astra\assets\js\minified\mobile-cart.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-about-owner-img.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-about-owner-img.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-featured-collection-1-300x225.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-featured-collection-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-featured-collection-1.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-featured-collection-1.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-featured-collection-2-300x225.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-featured-collection-2-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-featured-collection-2.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-featured-collection-2.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-featured-collection-3-200x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-featured-collection-3-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-featured-collection-3.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-featured-collection-3.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-featured-collection-4-200x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-featured-collection-4-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-featured-collection-4.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-featured-collection-4.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-resort-collection-cover-img.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-resort-collection-cover-img.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-new-arrival-header-img.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-new-arrival-header-img.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-15-100x100.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-15-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-15-150x150.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-15-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-15-225x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-15-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-15-300x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-15-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-15-600x800.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-15-600x800.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-15.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-15.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-17-100x100.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-17-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-17-150x150.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-17-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-17-225x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-17-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-17-300x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-17-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-17-600x800.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-17-600x800.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-17.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-17.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-2-100x100.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-2-150x150.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-2-225x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-2-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-2-300x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-2-600x800.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-2-600x800.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-2.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-2.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-23-100x100.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-23-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-23-150x150.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-23-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-23-225x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-23-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-23-300x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-23-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-23-600x800.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-23-600x800.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-23.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-23.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-24-100x100.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-24-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-24-150x150.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-24-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-24-225x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-24-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-24-300x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-24-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-24-600x801.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-24-600x801.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-24.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-24.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-25-100x100.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-25-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-25-150x150.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-25-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-25-225x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-25-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-25-300x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-25-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-25-600x801.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-25-600x801.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/fashion-designer-template-product-img-25.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\fashion-designer-template-product-img-25.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2021/07/signature.png
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2021\07\signature.png
+Content Type: image/png
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/2019-05-14_dop30-300x228.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\2019-05-14_dop30-300x228.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/2019-05-14_dop30-600x457.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\2019-05-14_dop30-600x457.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/2019-05-14_dop30.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\2019-05-14_dop30.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/3b3f8198101f9069acb0d0e269b26348.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\3b3f8198101f9069acb0d0e269b26348.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/b6473572-68cf-4c78-a378-d61c63f6b1d4-225x300.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\b6473572-68cf-4c78-a378-d61c63f6b1d4-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/b6473572-68cf-4c78-a378-d61c63f6b1d4.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\b6473572-68cf-4c78-a378-d61c63f6b1d4.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/item_4049-1024x507.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\item_4049-1024x507.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/item_4049-1536x760.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\item_4049-1536x760.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/item_4049-300x148.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\item_4049-300x148.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/item_4049-600x297.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\item_4049-600x297.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/item_4049-768x380.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\item_4049-768x380.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/2024/04/item_4049.jpg
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\2024\04\item_4049.jpg
+Content Type: image/jpeg
+
+Uri: http://thugclothes/wp-content/uploads/elementor/css/post-1000.css?ver=1712138420
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\elementor\css\post-1000.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/uploads/elementor/css/post-397.css?ver=1712094731
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\elementor\css\post-397.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/uploads/elementor/css/post-500.css?ver=1712094723
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\elementor\css\post-500.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/uploads/elementor/css/post-541.css?ver=1712094133
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\elementor\css\post-541.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/uploads/elementor/css/post-556.css?ver=1651675451
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\elementor\css\post-556.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/uploads/elementor/css/post-677.css?ver=1651679677
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\elementor\css\post-677.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-content/uploads/elementor/css/post-860.css?ver=1651677588
+File Name: C:\Users\User\Desktop\thugclothes\wp-content\uploads\elementor\css\post-860.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-includes/css/dashicons.min.css?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-includes/css/dist/block-library/style.min.css?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://thugclothes/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thugclothes/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: http://thugclothes/wp-includes/js/comment-reply.min.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-includes/js/wp-util.min.js?ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: http://thugclothes/wp-json/
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fabout%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fabout%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fcart-2%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fcart-2%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fcollections%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fcollections%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fcontact%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fcontact%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fnew-arrivals%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fnew-arrivals%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fblack-high-heels-shoes%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fblack-high-heels-shoes%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fclaire-high-heels-shoes%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fclaire-high-heels-shoes%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fdonna-gold-frame-glasses%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fdonna-gold-frame-glasses%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Femerald-green-shoes%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Femerald-green-shoes%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fnoorin-gold-ring-watch%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fnoorin-gold-ring-watch%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fserenity-silver-watch%2F
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/oembed/1.0/embed?url=http:%2F%2Fthugclothes%2Fproduct%2Fserenity-silver-watch%2F&format=xml
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://thugclothes/wp-json/wp/v2/pages/1000
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\pages\1000
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/pages/397
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\pages\397
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/pages/500
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\pages\500
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/pages/541
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\pages\541
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/pages/677
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\pages\677
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/pages/997
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\pages\997
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/product/344
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\product\344
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/product/348
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\product\348
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/product/353
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\product\353
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/product/356
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\product\356
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/product/358
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\product\358
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/product/360
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\product\360
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/product_cat/17
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\product_cat\17
+Content Type: application/json
+
+Uri: http://thugclothes/wp-json/wp/v2/product_cat/20
+File Name: C:\Users\User\Desktop\thugclothes\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: http://thugclothes/xmlrpc.php?rsd
+File Name: C:\Users\User\Desktop\thugclothes\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400%2C600|Fahkwang:600&display=fallback&ver=3.7.10
+File Name: C:\Users\User\Desktop\thugclothes\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&subset=cyrillic&ver=6.5
+File Name: C:\Users\User\Desktop\thugclothes\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/fahkwang/v16/Noa26Uj3zpmBOgbNpOJXnKlWHC4.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\fahkwang\v16\Noa26Uj3zpmBOgbNpOJXnKlWHC4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzc.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc9.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc9.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+File Name: C:\Users\User\Desktop\thugclothes\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://js.stripe.com/v3/?ver=1.4.4
+File Name: C:\Users\User\Desktop\thugclothes\v3\index.htm
+Content Type: text/javascript
+
+Uri: https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-cc-apple-pay-icon.svg
+File Name: C:\Users\User\Desktop\thugclothes\fashion-designer-boutique-02\wp-content\uploads\sites\917\2021\07\fashion-designer-cc-apple-pay-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-cc-discover-icon.svg
+File Name: C:\Users\User\Desktop\thugclothes\fashion-designer-boutique-02\wp-content\uploads\sites\917\2021\07\fashion-designer-cc-discover-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-cc-mastercard-icon.svg
+File Name: C:\Users\User\Desktop\thugclothes\fashion-designer-boutique-02\wp-content\uploads\sites\917\2021\07\fashion-designer-cc-mastercard-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-cc-visa-icon.svg
+File Name: C:\Users\User\Desktop\thugclothes\fashion-designer-boutique-02\wp-content\uploads\sites\917\2021\07\fashion-designer-cc-visa-icon.svg
+Content Type: image/svg+xml
+
